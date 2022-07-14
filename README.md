@@ -1,13 +1,25 @@
-# Getting Started with Create React App
+# 3D visualizer/Editor for three.js
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app is an editor for three js where user can create and edit 3d scene and export it to use in a three js enviroment of export as a standalone 3d file.
+User can create complete scene using Gui tools without writing any code. The application is my personal project and is under heavy development. Please do not use it as many things can give errors and cause crashes. Not all features are present at the moment.
 
-## Available Scripts
+## Expected Features
 
-In the project directory, you can run:
+All features if a 3D editing app like blender and maya but on a small scale majorly focused towards three js deveopers.
 
-### `npm start`
+## Current Features
 
+### A 3d environment similar to blender to edit and create 3d objects
+### Option to load external 3d models
+   #### currently supported file formats : Gltf, glb, fbx, obj
+### option to add inbuilt primitive models
+   #### currently have 12 different primitives
+### import a scene that is in Three js scene json format
+### export the current scene as Three js scene json format
+### select ojects in the scene:
+   #### Multi-select : select complete group
+   #### Single-select : select single meshes from groups - can select meshes from objects imported from ecternal files
+ 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
