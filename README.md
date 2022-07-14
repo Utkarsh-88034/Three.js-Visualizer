@@ -22,8 +22,8 @@ All features if a 3D editing app like blender and maya but on a small scale majo
 ### 5) export the current scene as Three js scene json format
 
 ### 6) select ojects in the scene:
-   Multi-select : select complete group
-   Single-select : select single meshes from groups - can select meshes from objects imported from ecternal files
+   i) Multi-select : select complete group
+   ii) Single-select : select single meshes from groups - can select meshes from objects imported from ecternal files
    
 ### 7) Transform Objects:
    Translate Object
