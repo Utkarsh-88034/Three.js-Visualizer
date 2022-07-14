@@ -22,13 +22,13 @@ All features if a 3D editing app like blender and maya but on a small scale majo
 ### 5) export the current scene as Three js scene json format
 
 ### 6) select ojects in the scene:
-   ##### Multi-select : select complete group
-   ##### Single-select : select single meshes from groups - can select meshes from objects imported from ecternal files
+   ###### Multi-select : select complete group
+   ###### Single-select : select single meshes from groups - can select meshes from objects imported from ecternal files
    
 ### 7) Transform Objects:
-   Translate Object
-   Scale Object
-   Rotate Object
+   ###### Translate Object
+   ###### Scale Object
+   ###### Rotate Object
    
 ### 8) Delete object/group from the scene
 
@@ -44,7 +44,7 @@ All features if a 3D editing app like blender and maya but on a small scale majo
 
 
 ## Steps to run the app
-   run `npm i` to install all the dependancies
-   run `npm start` to start the application on "hhtps://localhost:3000/"
+   ###### run `npm i` to install all the dependancies
+   ###### run `npm start` to start the application on "hhtps://localhost:3000/"
    
-## Note : ### Do not Use or copy this project for commercial perpose. This is the work of Utkarsh Jha. All rights reserved.
+### Note :  Do not Use or copy this project for commercial perpose. This is the work of Utkarsh Jha. All rights reserved.
