@@ -114,7 +114,7 @@ function App() {
               </>
             )}
           </Select>
-          <UIPanel object={selected} updatePosCube={updatePosCube} />
+          {/* <UIPanel object={selected} updatePosCube={updatePosCube} /> */}
         </Canvas>
       </Suspense>
       {/* <Panel selected={selected} /> */}
